@@ -1,5 +1,3 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=moadaitailoubrahim&label=PROFILE%20VIEWS&countColor=%23263759)
-
 # Hi, i'm Moad Ait Ali Oubrahim
 
 **Major:** Applied Computer Science - Cybersecurity.
